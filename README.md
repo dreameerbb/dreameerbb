@@ -22,7 +22,7 @@
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **AI 기반 여행 도우미** | FAISS 기반 여행 정보 추천 서비스 | ([link](https://github.com/Songjaeheon0923/Solution_challenge_2025)) |
-
+| **개인화 캘린더** | 실제로 사용 중인 개인 맞춤 캘린더 (실시간 개발 중) | ([link](https://github.com/Songjaeheon0923/personal-calendar-web)) |
 
 ### 📊 GitHub Stats
 
