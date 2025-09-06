@@ -8,8 +8,9 @@
 - **Github**: https://github.com/Songjaeheon0923
     
 ## 🏆 Contest
-- 🥈 `2024.11` 2024 KU 정보대학 Datathon InThon **금상** 수상
-- 🥇 `2024.12` 2024 RE:ALThon in GDG KU **대상** 수상
+-  `2024.11` 2024 KU 정보대학 Datathon InThon **금상** 수상
+-  `2024.12` 2024 RE:ALThon in GDG KU **대상** 수상
+-  `2025.9` SW중심대학 사업단 UNI-CON **은상** 수상
 
 ## 🎓 Experience
 - **2025.01 ~ 현재  |**  GDG KU member
