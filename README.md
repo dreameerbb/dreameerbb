@@ -37,7 +37,7 @@
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/Songjaeheon0923/Songjaeheon0923/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dreameerbb/dreameerbb/blob/output/github-contribution-grid-snake.svg)
 
 
 
