@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-![Songjaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songjaeheon0923&show_icons=true&theme=tokyonight)
+![Songjaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreameerbb&show_icons=true&theme=tokyonight)
 
 ### 🐍 Contribution Graph
 
