@@ -6,7 +6,7 @@
 ## 📬 Contact
 - **Email**: [thdwogjs040923@korea.ac.kr](thdwogjs040923@korea.ac.kr) / [heon140923@gmail.com](heon140923@gmail.com)
 - **Instagram**: [dreameerbb](https://www.instagram.com/dreameerbb/)
-- **Github**: [dreameerbb](https://github.com/Songjaeheon0923)
+- **Github**: [dreameerbb](https://github.com/dreameerbb)
     
 ## 🏆 Contest
 -  `2024.11` 2024 KU 정보대학 Datathon InThon **금상** 수상
