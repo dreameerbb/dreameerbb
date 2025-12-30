@@ -26,7 +26,6 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **AI 기반 여행 도우미** | FAISS 기반 여행 정보 추천 서비스 | [link](https://github.com/Songjaeheon0923/Solution_challenge_2025) |
 | **개인화 캘린더** | 실제로 사용 중인 개인 맞춤 캘린더 (Real-time updating) | [link](https://github.com/Songjaeheon0923/personal-calendar-web) |
 | **음식 추천 서비스** | 오늘 먹은 음식과 영양 궁합이 잘 맞는 음식 추천 서비스 | [link](https://github.com/Songjaeheon0923/2025_1_Food_recommendation_service) |
 | **Deeplant CV task<br>(SW 산학협력 프로젝트)** | 분광 카메라로 찍힌 육류 사진의 품질을 예측하는 CV 모델 구현 및 Web 개발 | [link](https://github.com/JANGHANPYEONG/20252R0136COSE48002) |
