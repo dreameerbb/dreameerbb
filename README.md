@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 About me 
 - **고려대학교** (Korea University) 
-- **컴퓨터공학 전공** (CSE)   
-- **수학과 이중전공** (Department of Mathematics)
+    - **컴퓨터공학 전공** (CSE)   
+    - **수학과 이중전공** (Department of Mathematics)
 
 ## 📬 Contact
 - **Email**: [thdwogjs040923@korea.ac.kr](thdwogjs040923@korea.ac.kr) / [heon140923@gmail.com](heon140923@gmail.com)
