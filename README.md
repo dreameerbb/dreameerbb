@@ -13,6 +13,8 @@
 -  `2024.12` 2024 RE:ALThon in GDG KU **대상** 수상
 -  `2025.9` SW중심대학 사업단 UNI-CON **은상** 수상
     -  출품작:  [e:room](https://github.com/Songjaeheon0923/Uni-con)
+-  `2025.12` KOSCOM AI agent challenge **최우수상** 수상
+-  `2025.9` 25년도 2학기 정보대학 캡스톤디자인 경진대회 **최우수상** 수상
 
 ## 🎓 Experience
 - **2025.01 ~ 현재  |**  GDG KU member
