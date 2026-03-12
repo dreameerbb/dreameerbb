@@ -12,7 +12,7 @@
 ### 🏆 Awards & Honors
 
 - **2025.12** | **KOSCOM AI Agent Challenge 최우수상 (개인)**
-  - [Project Repo](https://github.com/Songjaeheon0923/personal-calendar-web) | [Official Announcement](https://www.koscom.co.kr/portal/bbs/B0000064/view.do?nttId=30489&searchCnd=&searchWrd=&gubun=&delcode=0&searchBgnDe=&searchEndDe=&useAt=&replyAt=&menuNo=200629&sdate=&edate=&deptId=&isk=&ise=&viewType=&type=&year=&pageIndex=1)
+  - [Project Repo](https://github.com/dreameerbb/Fin-Hub) | [Official Announcement](https://www.koscom.co.kr/portal/bbs/B0000064/view.do?nttId=30489&searchCnd=&searchWrd=&gubun=&delcode=0&searchBgnDe=&searchEndDe=&useAt=&replyAt=&menuNo=200629&sdate=&edate=&deptId=&isk=&ise=&viewType=&type=&year=&pageIndex=1)
 - **2025.12** | **25년도 2학기 정보대학 캡스톤디자인 경진대회 최우수상**
   - [Project Repo](https://github.com/dreameerbb/Capstone_Design_25)
 - **2025.09** | **SW중심대학 사업단 UNI-CON 은상**
