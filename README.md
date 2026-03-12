@@ -9,13 +9,16 @@
 - **Github**: [dreameerbb](https://github.com/dreameerbb)
     
 ## 🏆 Contest
--  `2024.11` 2024 KU 정보대학 Datathon InThon **금상** 수상
--  `2024.12` 2024 RE:ALThon in GDG KU **대상** 수상
--  `2025.9` SW중심대학 사업단 UNI-CON **은상** 수상
-    -  출품작:  [e:room](https://github.com/Songjaeheon0923/Uni-con)
--  `2025.12` KOSCOM AI agent challenge **최우수상** 수상 (개인)
--  `2025.12` 25년도 2학기 정보대학 캡스톤디자인 경진대회 **최우수상** 수상
-    -  출품작:  [Capstone_Design](https://github.com/dreameerbb/Capstone_Design_25)
+### 🏆 Awards & Honors
+
+- **2025.12** | **KOSCOM AI Agent Challenge 최우수상 (개인)**
+  - [Project Repo](https://github.com/Songjaeheon0923/personal-calendar-web) | [Official Announcement](https://www.koscom.co.kr/portal/bbs/B0000064/view.do?nttId=30489&searchCnd=&searchWrd=&gubun=&delcode=0&searchBgnDe=&searchEndDe=&useAt=&replyAt=&menuNo=200629&sdate=&edate=&deptId=&isk=&ise=&viewType=&type=&year=&pageIndex=1)
+- **2025.12** | **25년도 2학기 정보대학 캡스톤디자인 경진대회 최우수상**
+  - [Project Repo](https://github.com/dreameerbb/Capstone_Design_25)
+- **2025.09** | **SW중심대학 사업단 UNI-CON 은상**
+  - [Project Repo](https://github.com/Songjaeheon0923/Uni-con)
+- **2024.12** | **2024 RE:ALThon in GDG KU 대상**
+- **2024.11** | **2024 KU 정보대학 Datathon InThon 금상**
 
 ## 🎓 Experience
 - **2025.01 ~ 현재  |**  GDG KU member
