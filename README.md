@@ -5,7 +5,6 @@
 
 ## 📬 Contact
 - **Email**: [thdwogjs040923@korea.ac.kr](thdwogjs040923@korea.ac.kr) / [heon140923@gmail.com](heon140923@gmail.com)
-- **Instagram**: [dreameerbb](https://www.instagram.com/dreameerbb/)
 - **Github**: [dreameerbb](https://github.com/dreameerbb)
     
 ## 🏆 Contest
