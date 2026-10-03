@@ -24,5 +24,5 @@
 - **2025.02 ~ 2026.02  |**  인공지능 연합 동아리 프로메테우스 member
 - **2025.06 ~ 2025.12  |**  KU 산학 협력 프로젝트 Deeplant
 - **2026.02  |**  King's College London - Artificial Intelligence: Fundamentals, Frameworks & Applications
-- **2026.07 ~  |**  SNUVL Intern
+- **2026.07 ~  |**  **SNUVL** Intern
 
