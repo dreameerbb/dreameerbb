@@ -24,18 +24,5 @@
 - **2025.02 ~ 2026.02  |**  인공지능 연합 동아리 프로메테우스 member
 - **2025.06 ~ 2025.12  |**  KU 산학 협력 프로젝트 Deeplant
 - **2026.02  |**  King's College London - Artificial Intelligence: Fundamentals, Frameworks & Applications
+- **2026.07 ~  |**  SNUVL Intern
 
-## 📃 Project
-
-| 프로젝트명 | 설명 | 깃허브 |
-|------------|------|--------|
-| **개인화 캘린더** | 실제로 사용 중인 개인 맞춤 캘린더 (Real-time updating) | [link](https://github.com/dreameerbb/personal-calendar-web) |
-| **Deeplant CV task<br>(SW 산학협력 프로젝트)** | 분광 카메라로 찍힌 육류 사진의 품질을 예측하는 CV 모델 구현 및 Web 개발 | [link](https://github.com/dreameerbb/Deeplant) |
-| **Claude CLI MCP server** | claude code에서 사용 가능한 MCP 서버 구축 (Real-time updating) | [link](https://github.com/dreameerbb/Useful-MCP-server) |
-| **e:room** | 청년 세대의 주거 문제 해결을 위한 계약서 안정성 검증 & 룸메이트 매칭 서비스 | [link](https://github.com/dreameerbb/Uni-con) |
-
-
-
-### 🐍 Contribution Graph
-
-![snake gif](https://raw.githubusercontent.com/dreameerbb/dreameerbb/output/github-contribution-grid-snake.svg)
