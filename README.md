@@ -8,7 +8,6 @@
 - **Github**: [dreameerbb](https://github.com/dreameerbb)
     
 ## 🏆 Contest
-### 🏆 Awards & Honors
 
 - **2025.12** | **KOSCOM AI Agent Challenge 최우수상 (개인)**
   - [Project Repo](https://github.com/dreameerbb/Fin-Hub) | [Official Announcement](https://www.koscom.co.kr/portal/bbs/B0000064/view.do?nttId=30489&searchCnd=&searchWrd=&gubun=&delcode=0&searchBgnDe=&searchEndDe=&useAt=&replyAt=&menuNo=200629&sdate=&edate=&deptId=&isk=&ise=&viewType=&type=&year=&pageIndex=1)
