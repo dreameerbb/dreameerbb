@@ -4,7 +4,7 @@
     - **Mathematics** (Double Major) 
 
 ## 📬 Contact
-- **Email**: [thdwogjs040923@korea.ac.kr](thdwogjs040923@korea.ac.kr) / [dreameerbb@gmail.com](dreameerbb@gmail.com)
+- **Email**: [dreameerbb@gmail.com](dreameerbb@gmail.com)
 - **Github**: [dreameerbb](https://github.com/dreameerbb)
     
 ## 🏆 Contest
