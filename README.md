@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 About me 
 - **Korea Univ** early graduation (2023.03 ~ 2026.08)
-    - **Computer Science & Engineering** (First Major)
-    - **Mathematics** (Double Major) 
+    - **Bachelor of Computer Science & Engineering** (First Major)
+    - **Bachelor of Mathematics** (Double Major) 
 
 ## 📬 Contact
 - **Email**: [dreameerbb@gmail.com](dreameerbb@gmail.com)
