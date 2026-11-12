@@ -3,10 +3,7 @@
     - **Bachelor of Computer Science & Engineering** (First Major)
     - **Bachelor of Mathematics** (Double Major) 
 
-## 📬 Contact
-- **Email**: [dreameerbb@gmail.com](dreameerbb@gmail.com)
-- **Github**: [dreameerbb](https://github.com/dreameerbb)
-    
+
 ## 🏆 Contest
 
 - **2025.12** | **KOSCOM AI Agent Challenge 최우수상 (개인)**
